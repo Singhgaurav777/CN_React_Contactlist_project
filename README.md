@@ -1,44 +1,3 @@
-# Website URL
-""
-
-# Unique deploy URL
-""
-
-# Function logs
-""
-
-# Build logs
-""
-
-# Contact App
-
-Contact App is a web application that allows you to manage your contacts. You can add, edit, and delete contacts using this application. It is built using React and utilizes React Router and Context API for state management.
-
-## Features
-
-- Add new contacts with name, email, and phone number
-- Edit existing contacts
-- Delete contacts from the list
-- Responsive design for mobile and desktop devices
-
-## Technologies Used
- - React
- - React Router
- - Context API
- - CSS
- - JavaScript
-
-## Project Structure
-The project structure follows a standard React application structure:
-
-   - public/: Contains the HTML template and other static assets.
-   - src/: Contains the React components, CSS styles, and application logic.
-   - components/: Contains reusable components used in the application.
-   - context/: Contains the Context API implementation for managing contact data.
-   - pages/: Contains the main pages of the application.
-   - App.js: The root component of the application.
-   - index.js: The entry point of the application.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -50,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3007](http://localhost:3007) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
